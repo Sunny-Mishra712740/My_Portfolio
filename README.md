@@ -42,5 +42,5 @@ Hi! I'm Sunny Mishra, a Full-Stack Developer passionate about building scalable 
 ---
 
 ## Contact Me
-- 📧 Email: sunnymishra712740@gmail.com
+- 📧 Email: sunnymishra836935@gmail.com
 - 🔗 LinkedIn: [Sunny Mishra](https://www.linkedin.com/in/sunny-mishra-50a247253)
