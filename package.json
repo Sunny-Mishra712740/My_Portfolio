@@ -1,0 +1,20 @@
+{
+  "name": "crm_backend",
+  "version": "1.0.0",
+  "description": "This is a CRM (Customer Relationship Manager) App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-Mishra712740/My_Portfolio.git"
+  },
+  "author": "Sunny Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-Mishra712740/CRM_Backend.git"
+  },
+  "homepage": "https://github.com/Sunny-Mishra712740/CRM_Backend.git"
+}
